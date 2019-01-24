@@ -1,0 +1,20 @@
+{
+  "eCommerceTransactionReference" : "ETR798527",
+  "merchantAcquiringBankReference" : "MABR718922",
+  "cardIssuingBankReference" : "CIBR798537",
+  "eCommerceTransactionCurrency" : "USD",
+  "eCommerceTransactionDateTime" : "09-22-2018",
+  "cardexpirationdate" : "09-22-2018",
+  "eCommerceTransactionAuthenticationResponse" : "eCommerceTransactionAuthenticationResponse",
+  "eCommerceTransactionAuthenticationReference" : "ETAR799353",
+  "cardCVV" : "cardCVV",
+  "productInstanceReference" : "PIR739256",
+  "eCommerceTransactionAmountType" : "Original amount",
+  "eCommerceTransactionLocationReference" : "ETLR756933",
+  "eCommerceTransactionAmount" : "USD 250",
+  "customerReference" : "CR787144",
+  "eCommerceTransactionMerchantReference" : "ETMR749507",
+  "eCommerceTransactionType" : "eCommerceTransactionType",
+  "eCommerceTransactionProductServiceReference" : "ETPR782786",
+  "eCommerceGatewayServiceSessionReference" : "EGSSR769786"
+}
